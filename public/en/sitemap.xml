@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://slapa.com/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="https://slapa.com/hr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://slapa.com/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://slapa.com/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="https://slapa.com/hr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://slapa.com/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://slapa.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="https://slapa.com/hr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://slapa.com/"
+                />
+  </url>
+  
+</urlset>
